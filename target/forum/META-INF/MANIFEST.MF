@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: cassio
+Build-Jdk: 11.0.7
+Implementation-Title: forum
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.alura
+Main-Class: ${start-class}
+
